@@ -8,4 +8,3 @@ Telecommunications Engineering student at Universitat Politècnica de Catalunya 
 
 *   I'm based in Barcelona.
 *   Contact: [velandriaa9@gmail.com](mailto:velandriaa9@gmail.com)
-*   I'm currently learning Java, JavaFX, C and CSS
