@@ -19,8 +19,8 @@ My github porfile is my personal trace along my education path ᕙ(⇀‸↼‶)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="25" alt="bash logo"  />
-</div>
+</div>  
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/violeta-velandria-768898348/)
 
-<img align='left' src='https://c.tenor.com/ji2g2a7bw1MAAAAC/tenor.gif' width='100' height='100'>
+<img align='left' src='https://c.tenor.com/ji2g2a7bw1MAAAAC/tenor.gif' width='120' height='120'>
