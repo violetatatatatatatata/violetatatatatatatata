@@ -1,13 +1,13 @@
 ### Hi there! <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="30"/>
 
-<img align='right' src='https://c.tenor.com/jKGgpsJFL8wAAAAd/tenor.gif' width='250' height='250'>
+<img align='right' src='https://c.tenor.com/jKGgpsJFL8wAAAAd/tenor.gif' width='200' height='200'>
 
 I'm [**Violeta**](https://www.linkedin.com/in/violeta-velandria-768898348/),
   a Telecommunications Engineering student
   and part of 42 BCN.
 
 My github porfile is my personal trace along my education path ᕙ(⇀‸↼‶)ᕗ
-
+<br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="c logo"  />
   <img width="12" />
@@ -19,8 +19,6 @@ My github porfile is my personal trace along my education path ᕙ(⇀‸↼‶)
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="35" alt="bash logo"  />
 </div>   
-<br>
-<br>
 <br>
 <br>
 <br>
