@@ -22,4 +22,5 @@ My github porfile is my personal trace along my education path ᕙ(⇀‸↼‶)
 <br>
 <br>
 <br>
-<img align='left' src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHBidmZtb2RtOWV2ZWR3Y3h3bWRrZTcyeHZmM3o2OG9iM3NkYXR5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HKu093dtbnXVPHWyBP/giphy.gif' height='40'>
+<br>
+<img align='left' src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHBidmZtb2RtOWV2ZWR3Y3h3bWRrZTcyeHZmM3o2OG9iM3NkYXR5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HKu093dtbnXVPHWyBP/giphy.gif' height='30'>
