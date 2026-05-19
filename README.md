@@ -6,4 +6,4 @@
   a Telecommunications Engineering student
   and part of 42 BCN.
 
-My github porfile is my personal trace along my education path :)
+My github porfile is my personal trace along my education path. In the meantime, I enjoy having fun with anything I do, even if it's an assignment. :)
