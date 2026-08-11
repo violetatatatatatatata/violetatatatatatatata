@@ -3,6 +3,7 @@
 ### <img align='left' src='https://raw.githubusercontent.com/fnky/fnky/refs/heads/fnky/img/welcome-fire.gif' height='30'> I'm [**Violeta**](https://www.linkedin.com/in/violeta-velandria-768898348/) ᕙ(⇀‸↼‶)ᕗ ,
 
 &nbsp; a Telecommunications Engineering student
+<br>
 &nbsp; and a Software Developer student in 42 BCN.
 <br>
 <br>My github porfile is my personal trace along my education path.
