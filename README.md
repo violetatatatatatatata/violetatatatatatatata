@@ -4,7 +4,7 @@
 
 &nbsp; a Telecommunications Engineering student
 <br>
-&nbsp; and a Software Developer student in 42 BCN.
+&nbsp; and during the nights a Software Developer in 42 BCN.
 <br>
 <br>My github porfile is my personal trace along my education path.
 <br>In the meantime, I enjoy having fun with anything I do,
