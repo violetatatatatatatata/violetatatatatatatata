@@ -1,4 +1,4 @@
-<img align='right' src='https://github.com/user-attachments/assets/10913a51-3377-43e6-a0fb-26cb222be114' width='200' height='200'>
+<img align='right' src='https://github.com/user-attachments/assets/10913a51-3377-43e6-a0fb-26cb222be114'>
 
 ### <img align='left' src='https://raw.githubusercontent.com/fnky/fnky/refs/heads/fnky/img/welcome-fire.gif' height='30'> I'm [**Violeta**](https://www.linkedin.com/in/violeta-velandria-768898348/) ᕙ(⇀‸↼‶)ᕗ ,
 
